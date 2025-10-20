@@ -10,7 +10,7 @@ dependencies:
   analyzer: 7.5.9
   build: ^3.0.0
   faker: ^2.2.0
-  source_gen: ^4.0.0
+  source_gen: ^3.0.0
 
 dev_dependencies:
   lint: ^2.0.0
