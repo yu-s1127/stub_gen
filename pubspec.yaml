@@ -7,10 +7,10 @@ environment:
   sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
-  # analyzer: 7.5.9
-  # build: ^3.0.0
+  analyzer: ^6.4.0
+  build: ^2.4.0
   faker: ^2.2.0
-  # source_gen: ^3.0.0
+  source_gen: ^1.5.0
 
 dev_dependencies:
   lint: ^2.0.0
